@@ -1,0 +1,11 @@
+h1 {
+  font-weight: 900;
+  font-family: verdana;
+  color: grey;
+}
+
+.header {
+  font-weight: 500;
+  font-family: verdana;
+  color: orange;
+}
