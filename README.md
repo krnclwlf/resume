@@ -10,10 +10,10 @@ _This webpage is designed to display a professional resume._
 
 ## Setup
 
-*_Clone this repository in Git Bash_
+_Clone this repository in Git Bash_
 
 ### License
 
 *Licensed under GPL.*
 
-Copyright (c) 2019 by **_krnclwlf_**
+Copyright (c) 2019 by **_Kara Wolfe_**
